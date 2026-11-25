@@ -6,6 +6,6 @@
 brew install feynnon/sokki/sokki
 ```
 
-Needs an Apple silicon Mac with macOS 14 or later. Sokki updates itself, so `brew upgrade` is only needed if you turn that off.
+Needs an Apple silicon Mac with macOS 14.2 or later. Sokki updates itself, so `brew upgrade` is only needed if you turn that off.
 
 Source and releases: [feynnon/sokki](https://github.com/feynnon/sokki).
