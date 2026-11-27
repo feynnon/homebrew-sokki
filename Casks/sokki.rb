@@ -1,6 +1,6 @@
 cask "sokki" do
-  version "0.2.40"
-  sha256 "ca537ff148d48169b1e83698eab7a79a3f5c76588d27f66302fe474049e98f2d"
+  version "0.2.41"
+  sha256 "544834a86c081dd4d9eb82501e7bd3bb3765504772d8a6c2e71310e93c8e787e"
 
   url "https://github.com/feynnon/sokki/releases/download/v#{version}/Sokki-#{version}-arm64.zip"
   name "Sokki"
